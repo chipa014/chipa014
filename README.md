@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chipa014.
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently actively learning React. This GitHub is just a catalogue of the projects I made during my studies.
+- 👀 I’m a Frontend developer.
+- 🌱 This repository is just a catalogue of the projects I made during my studies.
 - 📫 You can reach me at trushin.alexander.frontend@gmail.com
 
 <!---
